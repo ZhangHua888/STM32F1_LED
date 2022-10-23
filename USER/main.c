@@ -226,19 +226,19 @@ void start_task(void *p_arg)
 void emwindemo_task(void *p_arg)
 {
 	
-	//¸ü»»Æ¤·ô
-//	BUTTON_SetDefaultSkin(BUTTON_SKIN_FLEX); 
-//	CHECKBOX_SetDefaultSkin(CHECKBOX_SKIN_FLEX);
-//	DROPDOWN_SetDefaultSkin(DROPDOWN_SKIN_FLEX);
-//	FRAMEWIN_SetDefaultSkin(FRAMEWIN_SKIN_FLEX);
-//	HEADER_SetDefaultSkin(HEADER_SKIN_FLEX);
-//	MENU_SetDefaultSkin(MENU_SKIN_FLEX);
-//	MULTIPAGE_SetDefaultSkin(MULTIPAGE_SKIN_FLEX);
-//	PROGBAR_SetDefaultSkin(PROGBAR_SKIN_FLEX);
-//	RADIO_SetDefaultSkin(RADIO_SKIN_FLEX);
-//	SCROLLBAR_SetDefaultSkin(SCROLLBAR_SKIN_FLEX);
-//	SLIDER_SetDefaultSkin(SLIDER_SKIN_FLEX);
-//	SPINBOX_SetDefaultSkin(SPINBOX_SKIN_FLEX); 
+////	//¸ü»»Æ¤·ô
+////	BUTTON_SetDefaultSkin(BUTTON_SKIN_FLEX); 
+////	CHECKBOX_SetDefaultSkin(CHECKBOX_SKIN_FLEX);
+////	DROPDOWN_SetDefaultSkin(DROPDOWN_SKIN_FLEX);
+////	FRAMEWIN_SetDefaultSkin(FRAMEWIN_SKIN_FLEX);
+////	HEADER_SetDefaultSkin(HEADER_SKIN_FLEX);
+////	MENU_SetDefaultSkin(MENU_SKIN_FLEX);
+////	MULTIPAGE_SetDefaultSkin(MULTIPAGE_SKIN_FLEX);
+////	PROGBAR_SetDefaultSkin(PROGBAR_SKIN_FLEX);
+////	RADIO_SetDefaultSkin(RADIO_SKIN_FLEX);
+////	SCROLLBAR_SetDefaultSkin(SCROLLBAR_SKIN_FLEX);
+////	SLIDER_SetDefaultSkin(SLIDER_SKIN_FLEX);
+////	SPINBOX_SetDefaultSkin(SPINBOX_SKIN_FLEX); 
 			MainTask();
 	while(1)
 	{
